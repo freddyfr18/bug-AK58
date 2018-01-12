@@ -1,2 +1,5 @@
-paso 1: consultar la versión del servicio cloud
+
+paso 3. escribir uname -a
+paso 4. bug name: <Nombre del estudiante>
+paso 5. correo: <correo del estudiante>paso 1: consultar la versión del servicio cloud
 paso 2: escribir "init 6"
